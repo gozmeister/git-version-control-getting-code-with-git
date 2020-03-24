@@ -20,7 +20,7 @@ we'll discuss how to get others' repositories.
 In a later lesson we'll cover how to push _our_ locally-created repositories onto the
 internet so that others can see our projects.
 
-## Copy a Repository to Your Local Machine with `git clone`
+## Copy a Repository to Your Local Machine with `git clone` and Powater.
 
 We use `git clone` to copy someone else's repo from the internet to our _local_ machine.
 We are not getting _their_ repo from _their_ local machine (that would be very creepy).
